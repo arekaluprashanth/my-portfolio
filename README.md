@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arekalu Prashanth</h1>
-<h3 align="center">I'm Prashanth. I'm intrested in building projects, learning new skills, and sharing my code with the world.</h3>
+<h3 align="center">I'm Prashanth,intrested in building projects, learning new skills,sharing my code with the world,fresher web developer and full stack developer.</h3>
 
-- 🔭 I’m currently working on **Solar Animation.**
+- 🔭 I’m currently working on **Animation web**
 
-- 🌱 I’m currently learning **javascript,react and redux**
+- 🌱 I’m currently learning **react.js,Angular.js and redux**
 
 - 📫 How to reach me **prashu2242@gmail.com**
 
